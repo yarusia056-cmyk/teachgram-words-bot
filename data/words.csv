@@ -1,0 +1,2072 @@
+level,word,translation
+A1,name,ім’я
+A1,first name,ім’я
+A1,last name / surname,прізвище
+A1,age,вік
+A1,birthday,день народження
+A1,country,країна
+A1,city,місто
+A1,nationality,національність
+A1,address,адреса
+A1,phone number,номер телефону
+A1,email address,електронна адреса
+A1,phone,телефон
+A1,student,студент / учень
+A1,teacher,вчитель
+A1,job,робота / професія
+A1,work,робота
+A1,school,школа
+A1,university,університет
+A1,friend,друг / подруга
+A1,favourite,улюблений
+A1,from,з / родом із
+A1,family,сім’я
+A1,mother / mum,мама
+A1,father / dad,тато
+A1,parents,батьки
+A1,sister,сестра
+A1,brother,брат
+A1,grandmother,бабуся
+A1,grandfather,дідусь
+A1,grandparents,бабуся й дідусь
+A1,daughter,дочка
+A1,son,син
+A1,aunt,тітка
+A1,uncle,дядько
+A1,cousin,двоюрідний брат / сестра
+A1,husband,чоловік
+A1,wife,дружина
+A1,child,дитина
+A1,children,діти
+A1,boyfriend,хлопець
+A1,girlfriend,дівчина
+A1,best friend,найкращий друг / подруга
+A1,neighbour,сусід / сусідка
+A1,person,людина
+A1,people,люди
+A1,young,молодий
+A1,old,старий / літній
+A1,married,одружений
+A1,single,неодружений
+A1,one,один
+A1,two,два
+A1,three,три
+A1,four,чотири
+A1,five,п’ять
+A1,six,шість
+A1,seven,сім
+A1,eight,вісім
+A1,nine,дев’ять
+A1,ten,десять
+A1,eleven,одинадцять
+A1,twelve,дванадцять
+A1,thirteen,тринадцять
+A1,fourteen,чотирнадцять
+A1,fifteen,п’ятнадцять
+A1,sixteen,шістнадцять
+A1,seventeen,сімнадцять
+A1,eighteen,вісімнадцять
+A1,nineteen,дев’ятнадцять
+A1,twenty,двадцять
+A1,thirty,тридцять
+A1,forty,сорок
+A1,fifty,п’ятдесят
+A1,sixty,шістдесят
+A1,seventy,сімдесят
+A1,eighty,вісімдесят
+A1,ninety,дев’яносто
+A1,one hundred,сто
+A1,Monday,понеділок
+A1,Tuesday,вівторок
+A1,Wednesday,середа
+A1,Thursday,четвер
+A1,Friday,п’ятниця
+A1,Saturday,субота
+A1,Sunday,неділя
+A1,January,січень
+A1,February,лютий
+A1,March,березень
+A1,April,квітень
+A1,May,травень
+A1,June,червень
+A1,July,липень
+A1,August,серпень
+A1,September,вересень
+A1,October,жовтень
+A1,November,листопад
+A1,December,грудень
+A1,spring,весна
+A1,summer,літо
+A1,autumn / fall,осінь
+A1,winter,зима
+A1,white,білий
+A1,black,чорний
+A1,red,червоний
+A1,blue,синій
+A1,green,зелений
+A1,yellow,жовтий
+A1,orange,помаранчевий
+A1,pink,рожевий
+A1,purple,фіолетовий
+A1,brown,коричневий
+A1,grey,сірий
+A1,beige,бежевий
+A1,light,світлий
+A1,dark,темний
+A1,clothes,одяг
+A1,T-shirt,футболка
+A1,shirt,сорочка
+A1,blouse,блузка
+A1,top,топ
+A1,sweater,светр
+A1,jumper,светр
+A1,hoodie,худі
+A1,jacket,куртка / жакет
+A1,coat,пальто
+A1,dress,сукня
+A1,skirt,спідниця
+A1,jeans,джинси
+A1,trousers,штани
+A1,shorts,шорти
+A1,suit,костюм
+A1,shoes,взуття
+A1,trainers / sneakers,кросівки
+A1,boots,черевики / чоботи
+A1,sandals,босоніжки
+A1,socks,шкарпетки
+A1,hat,капелюх
+A1,cap,кепка
+A1,scarf,шарф
+A1,gloves,рукавички
+A1,bag,сумка
+A1,belt,ремінь
+A1,underwear,нижня білизна
+A1,pyjamas,піжама
+A1,food,їжа
+A1,bread,хліб
+A1,rice,рис
+A1,pasta,макарони
+A1,potato,картопля
+A1,tomato,помідор
+A1,cucumber,огірок
+A1,carrot,морква
+A1,onion,цибуля
+A1,salad,салат
+A1,vegetable,овоч
+A1,fruit,фрукт
+A1,apple,яблуко
+A1,banana,банан
+A1,orange,апельсин
+A1,lemon,лимон
+A1,strawberry,полуниця
+A1,grape,виноград
+A1,meat,м’ясо
+A1,chicken,курка / курятина
+A1,fish,риба
+A1,egg,яйце
+A1,cheese,сир
+A1,butter,масло
+A1,milk,молоко
+A1,yogurt,йогурт
+A1,sandwich,бутерброд
+A1,pizza,піца
+A1,burger,бургер
+A1,cake,торт
+A1,chocolate,шоколад
+A1,ice cream,морозиво
+A1,water,вода
+A1,tea,чай
+A1,coffee,кава
+A1,juice,сік
+A1,lemonade,лимонад
+A1,hot chocolate,гарячий шоколад
+A1,breakfast,сніданок
+A1,lunch,обід
+A1,dinner,вечеря
+A1,meal,прийом їжі / страва
+A1,hungry,голодний
+A1,thirsty,спраглий
+A1,delicious,смачний
+A1,sweet,солодкий
+A1,salty,солоний
+A1,hot,гарячий
+A1,cold,холодний
+A1,house,будинок
+A1,flat / apartment,квартира
+A1,room,кімната
+A1,bedroom,спальня
+A1,living room,вітальня
+A1,kitchen,кухня
+A1,bathroom,ванна кімната
+A1,toilet,туалет
+A1,hall / hallway,коридор
+A1,balcony,балкон
+A1,garden,сад
+A1,garage,гараж
+A1,bed,ліжко
+A1,sofa,диван
+A1,chair,стілець
+A1,table,стіл
+A1,desk,письмовий стіл
+A1,wardrobe,шафа для одягу
+A1,cupboard,шафа
+A1,shelf,полиця
+A1,bookcase,книжкова шафа
+A1,mirror,дзеркало
+A1,lamp,лампа
+A1,carpet,килим
+A1,curtain,штора
+A1,door,двері
+A1,window,вікно
+A1,floor,підлога
+A1,wall,стіна
+A1,ceiling,стеля
+A1,fridge,холодильник
+A1,oven,духовка
+A1,microwave,мікрохвильова піч
+A1,sink,раковина
+A1,plate,тарілка
+A1,cup,чашка
+A1,glass,склянка
+A1,fork,виделка
+A1,knife,ніж
+A1,spoon,ложка
+A1,wake up,прокидатися
+A1,get up,вставати
+A1,have breakfast,снідати
+A1,have lunch,обідати
+A1,have dinner,вечеряти
+A1,go to work,йти на роботу
+A1,go to school,йти до школи
+A1,go to university,йти до університету
+A1,come home,приходити додому
+A1,get home,приходити додому
+A1,have a shower,приймати душ
+A1,have a bath,приймати ванну
+A1,brush my teeth,чистити зуби
+A1,wash my face,вмиватися
+A1,get dressed,одягатися
+A1,get undressed,роздягатися
+A1,make breakfast,готувати сніданок
+A1,make dinner,готувати вечерю
+A1,cook,готувати
+A1,eat,їсти
+A1,drink,пити
+A1,go shopping,ходити за покупками
+A1,go for a walk,гуляти
+A1,meet friends,зустрічатися з друзями
+A1,watch TV,дивитися телевізор
+A1,watch a film,дивитися фільм
+A1,listen to music,слухати музику
+A1,read a book,читати книгу
+A1,do homework,робити домашнє завдання
+A1,study,навчатися
+A1,work,працювати
+A1,use my phone,користуватися телефоном
+A1,go to bed,лягати спати
+A1,go to sleep,засинати
+A1,sleep,спати
+A1,every day,щодня
+A1,every morning,щоранку
+A1,every evening,щовечора
+A1,in the morning,вранці
+A1,in the afternoon,вдень
+A1,in the evening,ввечері
+A1,at night,вночі
+A1,early,рано
+A1,late,пізно
+A1,today,сьогодні
+A1,tomorrow,завтра
+A1,yesterday,вчора
+A1,usually,зазвичай
+A1,always,завжди
+A1,sometimes,іноді
+A1,never,ніколи
+A1,be,бути
+A1,have,мати
+A1,do,робити
+A1,go,йти / їхати
+A1,come,приходити
+A1,get,отримувати / ставати / діставатися
+A1,make,робити / створювати
+A1,take,брати
+A1,give,давати
+A1,want,хотіти
+A1,need,потребувати
+A1,like,подобатися
+A1,love,любити
+A1,know,знати
+A1,think,думати
+A1,understand,розуміти
+A1,remember,пам’ятати
+A1,forget,забувати
+A1,see,бачити
+A1,look,дивитися
+A1,watch,дивитися
+A1,hear,чути
+A1,listen,слухати
+A1,say,казати
+A1,tell,розповідати / казати
+A1,speak,говорити
+A1,talk,розмовляти
+A1,ask,питати
+A1,answer,відповідати
+A1,read,читати
+A1,write,писати
+A1,learn,вчити / навчатися
+A1,live,жити
+A1,buy,купувати
+A1,pay,платити
+A1,use,використовувати
+A1,open,відкривати
+A1,close,закривати
+A1,start,починати
+A1,finish,закінчувати
+A1,help,допомагати
+A1,call,телефонувати
+A1,meet,зустрічати(ся)
+A1,play,грати
+A1,walk,ходити / гуляти
+A1,run,бігати
+A1,sit,сидіти
+A1,stand,стояти
+A1,wash,мити
+A1,clean,прибирати / чистити
+A1,wear,носити одяг
+A1,put,класти / ставити
+A1,bring,приносити
+A1,find,знаходити
+A1,wait,чекати
+A1,stay,залишатися
+A1,feel,почуватися
+A1,try,намагатися
+A1,can,могти
+A1,must,мусити
+A1,should,слід / варто
+A1,leave,залишати / йти
+A1,arrive,прибувати
+A1,travel,подорожувати
+A1,drive,керувати автомобілем
+A1,ride,їхати
+A1,fly,літати
+A1,swim,плавати
+A1,dance,танцювати
+A1,sing,співати
+A1,draw,малювати
+A1,smile,посміхатися
+A1,laugh,сміятися
+A1,cry,плакати
+A1,turn on,вмикати
+A1,turn off,вимикати
+A1,good,хороший
+A1,bad,поганий
+A1,big,великий
+A1,small,маленький
+A1,long,довгий
+A1,short,короткий
+A1,new,новий
+A1,beautiful,красивий
+A1,nice,приємний
+A1,happy,щасливий
+A1,sad,сумний
+A1,easy,легкий
+A1,difficult / hard,складний
+A1,interesting,цікавий
+A1,boring,нудний
+A1,busy,зайнятий
+A1,free,вільний
+A1,tired,втомлений
+A1,fast,швидкий
+A1,slow,повільний
+A1,right,правильний / правий
+A1,wrong,неправильний
+A1,same,однаковий
+A1,different,різний
+A1,clean,чистий
+A1,dirty,брудний
+A1,open,відкритий
+A1,closed,закритий
+A1,full,повний
+A1,empty,порожній
+A2,hobby,хобі
+A2,free time,вільний час
+A2,leisure,дозвілля
+A2,activity,діяльність / заняття
+A2,interest,інтерес
+A2,sport,спорт
+A2,exercise,фізичні вправи
+A2,gym,спортзал
+A2,fitness,фітнес
+A2,football,футбол
+A2,tennis,теніс
+A2,volleyball,волейбол
+A2,cycling,їзда на велосипеді
+A2,running,біг
+A2,swimming,плавання
+A2,dancing,танці
+A2,hiking,піші прогулянки / хайкінг
+A2,painting,малювання / живопис
+A2,drawing,малювання
+A2,photography,фотографія
+A2,cooking,кулінарія
+A2,reading,читання
+A2,writing,письмо
+A2,gardening,садівництво
+A2,shopping,шопінг / покупки
+A2,travelling,подорожі
+A2,watch a series,дивитися серіал
+A2,play games,грати в ігри
+A2,play an instrument,грати на музичному інструменті
+A2,go out,виходити кудись / гуляти
+A2,hang out,проводити час разом
+A2,spend time,проводити час
+A2,relax,відпочивати
+A2,have fun,веселитися / добре проводити час
+A2,enjoy,насолоджуватися
+A2,prefer,надавати перевагу
+A2,collect,колекціонувати
+A2,join,приєднуватися
+A2,practice,практикуватися / тренуватися
+A2,win,вигравати
+A2,lose,програвати
+A2,team,команда
+A2,competition,змагання
+A2,match,матч
+A2,game,гра / матч
+A2,club,клуб / гурток
+A2,shop,магазин
+A2,shopping centre / mall,торговий центр
+A2,supermarket,супермаркет
+A2,market,ринок
+A2,bakery,пекарня
+A2,clothes shop,магазин одягу
+A2,customer,покупець
+A2,seller,продавець
+A2,cashier,касир
+A2,price,ціна
+A2,cost,коштувати / вартість
+A2,money,гроші
+A2,cash,готівка
+A2,card,картка
+A2,credit card,кредитна картка
+A2,debit card,дебетова картка
+A2,coin,монета
+A2,banknote,банкнота
+A2,wallet,гаманець
+A2,receipt,чек
+A2,change,решта
+A2,sale,розпродаж
+A2,discount,знижка
+A2,offer,пропозиція
+A2,special offer,спеціальна пропозиція
+A2,size,розмір
+A2,medium,середній
+A2,large,великий
+A2,cheap,дешевий
+A2,expensive,дорогий
+A2,free,безкоштовний
+A2,affordable,доступний за ціною
+A2,brand,бренд
+A2,product,товар / продукт
+A2,item,товар / річ
+A2,quality,якість
+A2,choose,обирати
+A2,try on,приміряти
+A2,fit,підходити за розміром
+A2,sell,продавати
+A2,spend,витрачати
+A2,save,заощаджувати
+A2,borrow,позичати
+A2,lend,позичати комусь
+A2,order,замовляти
+A2,return,повертати
+A2,exchange,обмінювати
+A2,deliver,доставляти
+A2,delivery,доставка
+A2,online shopping,онлайн-шопінг
+A2,shopping bag,пакет / сумка для покупок
+A2,How much is it?,Скільки це коштує?
+A2,How much does it cost?,Скільки це коштує?
+A2,Can I try it on?,Можна це приміряти?
+A2,I'd like to buy…,Я хотів/хотіла б купити…
+A2,travel,подорожувати / подорож
+A2,trip,поїздка
+A2,journey,подорож / поїздка
+A2,holiday / vacation,відпустка / канікули
+A2,tour,тур / екскурсійна поїздка
+A2,tourist,турист
+A2,destination,місце призначення
+A2,capital,столиця
+A2,city centre,центр міста
+A2,airport,аеропорт
+A2,train station,залізничний вокзал
+A2,bus station,автовокзал
+A2,hotel,готель
+A2,hostel,хостел
+A2,room,кімната / номер
+A2,reservation / booking,бронювання
+A2,passport,паспорт
+A2,visa,віза
+A2,ticket,квиток
+A2,luggage,багаж
+A2,suitcase,валіза
+A2,backpack,рюкзак
+A2,map,карта
+A2,guide,гід / путівник
+A2,tourist attraction,туристична пам’ятка
+A2,museum,музей
+A2,beach,пляж
+A2,mountains,гори
+A2,sea,море
+A2,river,річка
+A2,lake,озеро
+A2,island,острів
+A2,abroad,за кордоном
+A2,border,кордон
+A2,travel insurance,туристична страховка
+A2,public transport,громадський транспорт
+A2,transport,транспорт
+A2,bus,автобус
+A2,train,потяг
+A2,tram,трамвай
+A2,underground / metro,метро
+A2,subway,метро
+A2,taxi,таксі
+A2,car,автомобіль
+A2,bicycle / bike,велосипед
+A2,motorcycle,мотоцикл
+A2,plane / aeroplane,літак
+A2,ship,корабель
+A2,boat,човен
+A2,coach,міжміський автобус
+A2,platform,платформа / колія
+A2,stop,зупинка
+A2,station,станція / вокзал
+A2,departure,відправлення
+A2,arrival,прибуття
+A2,delay,затримка
+A2,departure time,час відправлення
+A2,arrival time,час прибуття
+A2,one-way ticket,квиток в один бік
+A2,return ticket,квиток туди й назад
+A2,miss a bus/train,запізнитися на автобус / потяг
+A2,catch a bus/train,встигнути на автобус / потяг
+A2,get on,сідати в транспорт
+A2,get off,виходити з транспорту
+A2,check in,зареєструватися
+A2,check out,виселитися
+A2,book a room,забронювати номер
+A2,go abroad,їхати за кордон
+A2,travel by plane,подорожувати літаком
+A2,travel by train,подорожувати потягом
+A2,job,робота / посада
+A2,profession,професія
+A2,career,кар’єра
+A2,company,компанія
+A2,office,офіс
+A2,workplace,робоче місце
+A2,employee,працівник
+A2,employer,роботодавець
+A2,colleague,колега
+A2,manager,менеджер / керівник
+A2,boss,начальник
+A2,meeting,зустріч / нарада
+A2,project,проєкт
+A2,task,завдання
+A2,salary,зарплата
+A2,pay,оплата / зарплата
+A2,part-time,неповний робочий день
+A2,full-time,повний робочий день
+A2,experience,досвід
+A2,education,освіта
+A2,degree,диплом / ступінь
+A2,skill,навичка
+A2,CV / résumé,резюме
+A2,interview,співбесіда
+A2,application,заявка
+A2,business,бізнес
+A2,customer,клієнт
+A2,client,клієнт
+A2,doctor,лікар
+A2,nurse,медсестра / медбрат
+A2,engineer,інженер
+A2,designer,дизайнер
+A2,artist,художник / митець
+A2,actor,актор
+A2,writer,письменник
+A2,journalist,журналіст
+A2,lawyer,юрист / адвокат
+A2,police officer,поліцейський
+A2,firefighter,пожежник
+A2,chef,шеф-кухар
+A2,cook,кухар
+A2,waiter,офіціант
+A2,waitress,офіціантка
+A2,shop assistant,продавець-консультант
+A2,driver,водій
+A2,mechanic,механік
+A2,farmer,фермер
+A2,scientist,науковець
+A2,photographer,фотограф
+A2,model,модель
+A2,manager,менеджер
+A2,accountant,бухгалтер
+A2,dentist,стоматолог
+A2,work from home,працювати з дому
+A2,work overtime,працювати понаднормово
+A2,get a job,отримати роботу
+A2,look for a job,шукати роботу
+A2,apply for a job,подаватися на роботу
+A2,earn money,заробляти гроші
+A2,get paid,отримувати зарплату
+A2,start a job,почати працювати
+A2,leave a job,звільнитися / залишити роботу
+A2,lose a job,втратити роботу
+A2,body,тіло
+A2,head,голова
+A2,face,обличчя
+A2,hair,волосся
+A2,eye,око
+A2,ear,вухо
+A2,nose,ніс
+A2,mouth,рот
+A2,tooth,зуб
+A2,teeth,зуби
+A2,lip,губа
+A2,neck,шия
+A2,shoulder,плече
+A2,arm,рука
+A2,elbow,лікоть
+A2,hand,кисть / рука
+A2,finger,палець руки
+A2,chest,груди / грудна клітка
+A2,back,спина
+A2,stomach,живіт / шлунок
+A2,waist,талія
+A2,leg,нога
+A2,knee,коліно
+A2,foot,стопа
+A2,feet,стопи
+A2,toe,палець ноги
+A2,skin,шкіра
+A2,heart,серце
+A2,blood,кров
+A2,bone,кістка
+A2,muscle,м’яз
+A2,brain,мозок
+A2,health,здоров’я
+A2,healthy,здоровий
+A2,unhealthy,нездоровий
+A2,ill / sick,хворий
+A2,illness,хвороба
+A2,disease,захворювання
+A2,pain,біль
+A2,headache,головний біль
+A2,toothache,зубний біль
+A2,stomachache,біль у животі
+A2,backache,біль у спині
+A2,earache,біль у вусі
+A2,sore throat,біль у горлі
+A2,cold,застуда
+A2,flu,грип
+A2,fever,температура / жар
+A2,cough,кашель
+A2,runny nose,нежить
+A2,blocked nose,закладений ніс
+A2,sneeze,чхати
+A2,sneezing,чхання
+A2,temperature,температура
+A2,symptom,симптом
+A2,medicine,ліки
+A2,tablet / pill,таблетка
+A2,hospital,лікарня
+A2,pharmacy,аптека
+A2,appointment,запис / прийом
+A2,patient,пацієнт
+A2,injury,травма
+A2,accident,нещасний випадок
+A2,cut,поріз
+A2,burn,опік
+A2,bruise,синець
+A2,broken bone,зламана кістка
+A2,hurt,боліти / завдавати болю
+A2,feel ill,почуватися погано
+A2,feel better,почуватися краще
+A2,take medicine,приймати ліки
+A2,see a doctor,звернутися до лікаря
+A2,get better,одужувати
+A2,rest,відпочивати
+A2,recover,одужувати / відновлюватися
+A2,appearance,зовнішність
+A2,look,виглядати
+A2,handsome,красивий (про чоловіка)
+A2,pretty,гарненький
+A2,attractive,привабливий
+A2,good-looking,привабливий / вродливий
+A2,ugly,некрасивий
+A2,tall,високий
+A2,short,низький
+A2,medium-height,середнього зросту
+A2,thin,худий
+A2,slim,стрункий
+A2,fat,товстий
+A2,overweight,із зайвою вагою
+A2,strong,сильний
+A2,weak,слабкий
+A2,middle-aged,середнього віку
+A2,cute,милий
+A2,round,круглий
+A2,straight,прямий
+A2,curly,кучерявий
+A2,wavy,хвилястий
+A2,blonde,білявий
+A2,brown,каштановий / коричневий
+A2,red,рудий / червоний
+A2,pale,блідий
+A2,beard,борода
+A2,moustache,вуса
+A2,glasses,окуляри
+A2,personality,характер / особистість
+A2,character,характер
+A2,kind,добрий
+A2,friendly,дружелюбний
+A2,polite,ввічливий
+A2,helpful,готовий допомогти
+A2,funny,веселий / смішний
+A2,serious,серйозний
+A2,quiet,тихий / спокійний
+A2,talkative,балакучий
+A2,shy,сором’язливий
+A2,confident,впевнений у собі
+A2,clever,розумний
+A2,smart,розумний
+A2,stupid,дурний
+A2,lazy,лінивий
+A2,hard-working,працьовитий
+A2,active,активний
+A2,creative,творчий
+A2,patient,терплячий
+A2,impatient,нетерплячий
+A2,honest,чесний
+A2,dishonest,нечесний
+A2,generous,щедрий
+A2,selfish,егоїстичний
+A2,brave,сміливий
+A2,afraid,наляканий / боязкий
+A2,calm,спокійний
+A2,nervous,нервовий
+A2,positive,позитивний
+A2,negative,негативний
+A2,lovely,чудовий / милий
+A2,strange,дивний
+A2,weather,погода
+A2,sun,сонце
+A2,sunny,сонячний
+A2,cloud,хмара
+A2,cloudy,хмарний
+A2,rain,дощ
+A2,rainy,дощовий
+A2,snow,сніг
+A2,snowy,сніжний
+A2,wind,вітер
+A2,windy,вітряний
+A2,fog,туман
+A2,foggy,туманний
+A2,storm,буря / гроза
+A2,stormy,бурхливий / грозовий
+A2,thunder,грім
+A2,lightning,блискавка
+A2,ice,лід
+A2,icy,крижаний
+A2,degree,градус
+A2,warm,теплий
+A2,cool,прохолодний
+A2,wet,вологий / мокрий
+A2,dry,сухий
+A2,freezing,дуже холодний / морозний
+A2,raincoat,дощовик
+A2,umbrella,парасолька
+A2,forecast,прогноз погоди
+A2,weather forecast,прогноз погоди
+A2,season,пора року
+A2,environment,навколишнє середовище
+A2,nature,природа
+A2,air,повітря
+A2,land,земля / територія
+A2,earth,Земля
+A2,forest,ліс
+A2,tree,дерево
+A2,plant,рослина
+A2,flower,квітка
+A2,grass,трава
+A2,field,поле
+A2,mountain,гора
+A2,hill,пагорб
+A2,ocean,океан
+A2,animal,тварина
+A2,bird,птах
+A2,insect,комаха
+A2,wild,дикий
+A2,pollution,забруднення
+A2,air pollution,забруднення повітря
+A2,water pollution,забруднення води
+A2,plastic,пластик
+A2,plastic waste,пластикові відходи
+A2,rubbish / garbage,сміття
+A2,recycling,переробка
+A2,recycle,переробляти
+A2,waste,відходи / марнувати
+A2,protect,захищати
+A2,destroy,знищувати
+A2,natural,природний
+A2,environmentally friendly,екологічний
+A2,climate,клімат
+A2,climate change,зміна клімату
+A2,global warming,глобальне потепління
+A2,energy,енергія
+A2,electricity,електроенергія
+A2,reusable,багаторазовий
+A2,reduce,зменшувати
+A2,reuse,використовувати повторно
+B1,school system,система освіти
+B1,education system,система освіти
+B1,subject,предмет
+B1,lesson,урок
+B1,class,заняття / клас
+B1,course,курс
+B1,college,коледж
+B1,student,студент
+B1,teacher,вчитель / викладач
+B1,professor,професор
+B1,classmate,однокласник / одногрупник
+B1,roommate,сусід по кімнаті
+B1,homework,домашнє завдання
+B1,assignment,завдання
+B1,exam,іспит
+B1,test,тест
+B1,grade,оцінка
+B1,mark,оцінка
+B1,result,результат
+B1,certificate,сертифікат
+B1,qualification,кваліфікація
+B1,knowledge,знання
+B1,research,дослідження
+B1,essay,есе
+B1,presentation,презентація
+B1,lecture,лекція
+B1,training,навчання / тренінг
+B1,scholarship,стипендія
+B1,tuition fee,плата за навчання
+B1,academic,академічний
+B1,practical,практичний
+B1,theoretical,теоретичний
+B1,online learning,онлайн-навчання
+B1,distance learning,дистанційне навчання
+B1,self-study,самонавчання
+B1,learn by heart,вчити напам'ять
+B1,take an exam,складати іспит
+B1,pass an exam,скласти іспит
+B1,fail an exam,провалити іспит
+B1,get a good grade,отримати хорошу оцінку
+B1,make progress,робити прогрес
+B1,improve,покращувати
+B1,develop a skill,розвивати навичку
+B1,attend a class,відвідувати заняття
+B1,miss a class,пропустити заняття
+B1,graduate,закінчувати університет
+B1,study for an exam,готуватися до іспиту
+B1,hand in homework,здати домашнє завдання
+B1,emotion,емоція
+B1,feeling,почуття
+B1,mood,настрій
+B1,happiness,щастя
+B1,sadness,сум
+B1,anger,гнів
+B1,fear,страх
+B1,surprise,здивування
+B1,excitement,захоплення / хвилювання
+B1,joy,радість
+B1,stress,стрес
+B1,worry,хвилювання
+B1,anxiety,тривога
+B1,disappointment,розчарування
+B1,embarrassment,збентеження
+B1,jealousy,ревнощі
+B1,pride,гордість
+B1,shame,сором
+B1,guilt,провина
+B1,confidence,впевненість
+B1,trust,довіра
+B1,respect,повага
+B1,support,підтримка
+B1,love,любов
+B1,friendship,дружба
+B1,relationship,стосунки
+B1,couple,пара
+B1,partner,партнер / партнерка
+B1,close friend,близький друг
+B1,best friend,найкращий друг
+B1,acquaintance,знайомий / знайома
+B1,argument,сварка / суперечка
+B1,conflict,конфлікт
+B1,problem,проблема
+B1,disagreement,незгода
+B1,opinion,думка
+B1,advice,порада
+B1,secret,секрет
+B1,promise,обіцянка
+B1,lie,брехня
+B1,truth,правда
+B1,apology,вибачення
+B1,reason,причина
+B1,decision,рішення
+B1,choice,вибір
+B1,agree,погоджуватися
+B1,disagree,не погоджуватися
+B1,argue,сперечатися / сваритися
+B1,discuss,обговорювати
+B1,complain,скаржитися
+B1,apologise,вибачатися
+B1,forgive,пробачати
+B1,care about,піклуватися / перейматися
+B1,get along with,ладнати з
+B1,fall out with,посваритися з
+B1,make up,помиритися
+B1,break up,розійтися
+B1,get to know,познайомитися / дізнатися ближче
+B1,keep in touch,підтримувати зв'язок
+B1,lose touch,втратити зв'язок
+B1,personality,особистість / характер
+B1,reliable,надійний
+B1,unreliable,ненадійний
+B1,responsible,відповідальний
+B1,irresponsible,безвідповідальний
+B1,self-confident,впевнений у собі
+B1,insecure,невпевнений у собі
+B1,independent,незалежний
+B1,dependent,залежний
+B1,ambitious,амбітний
+B1,determined,рішучий
+B1,stubborn,впертий
+B1,sensitive,чутливий
+B1,emotional,емоційний
+B1,loyal,відданий
+B1,disloyal,невірний / нелояльний
+B1,mature,зрілий
+B1,immature,незрілий
+B1,rude,грубий
+B1,arrogant,зарозумілий
+B1,modest,скромний
+B1,jealous,ревнивий
+B1,moody,мінливий у настрої
+B1,open-minded,відкритий до нового
+B1,narrow-minded,обмежений у поглядах
+B1,easy-going,легкий у спілкуванні
+B1,aggressive,агресивний
+B1,confusing,"незрозумілий / такий, що заплутує"
+B1,complicated,складний
+B1,understanding,"чуйний / той, хто розуміє інших"
+B1,media,медіа / засоби масової інформації
+B1,news,новини
+B1,newspaper,газета
+B1,magazine,журнал
+B1,article,стаття
+B1,website,вебсайт
+B1,blog,блог
+B1,social media,соціальні мережі
+B1,post,допис
+B1,comment,коментар
+B1,content,контент
+B1,account,акаунт
+B1,profile,профіль
+B1,follower,підписник
+B1,influencer,інфлюенсер
+B1,reporter,репортер
+B1,advertisement / ad,реклама
+B1,headline,заголовок
+B1,source,джерело
+B1,information,інформація
+B1,fact,факт
+B1,fake news,фейкові новини
+B1,review,відгук / рецензія
+B1,movie / film,фільм
+B1,cinema,кіно / кінотеатр
+B1,actress,акторка
+B1,director,режисер
+B1,character,персонаж
+B1,main character,головний персонаж
+B1,plot,сюжет
+B1,story,історія / сюжет
+B1,scene,сцена
+B1,episode,епізод
+B1,season,сезон
+B1,series,серіал
+B1,documentary,документальний фільм
+B1,comedy,комедія
+B1,drama,драма
+B1,horror,жахи
+B1,thriller,трилер
+B1,action film,бойовик
+B1,romantic comedy,романтична комедія
+B1,science fiction,наукова фантастика
+B1,fantasy,фентезі
+B1,book,книга
+B1,novel,роман
+B1,author,автор
+B1,reader,читач
+B1,chapter,розділ
+B1,page,сторінка
+B1,ending,кінцівка
+B1,beginning,початок
+B1,cover,обкладинка
+B1,library,бібліотека
+B1,recommend,рекомендувати
+B1,be based on,бути заснованим на
+B1,be interested in,цікавитися
+B1,be similar to,бути схожим на
+B1,be different from,відрізнятися від
+B1,technology,технології
+B1,device,пристрій
+B1,gadget,гаджет
+B1,computer,комп'ютер
+B1,laptop,ноутбук
+B1,tablet,планшет
+B1,smartphone,смартфон
+B1,mobile phone,мобільний телефон
+B1,screen,екран
+B1,keyboard,клавіатура
+B1,mouse,комп'ютерна мишка
+B1,headphones,навушники
+B1,earphones,навушники-вкладиші
+B1,charger,зарядний пристрій
+B1,battery,батарея / акумулятор
+B1,camera,камера
+B1,smartwatch,смартгодинник
+B1,app,застосунок
+B1,application,застосунок
+B1,browser,браузер
+B1,internet,інтернет
+B1,Wi-Fi,Wi-Fi
+B1,password,пароль
+B1,file,файл
+B1,document,документ
+B1,photo,фотографія
+B1,video,відео
+B1,message,повідомлення
+B1,email,електронний лист
+B1,social network,соціальна мережа
+B1,online,онлайн
+B1,offline,офлайн
+B1,digital,цифровий
+B1,technology,технологія
+B1,software,програмне забезпечення
+B1,update,оновлення
+B1,download,завантажувати
+B1,upload,завантажувати / додавати онлайн
+B1,click,натискати
+B1,search,шукати
+B1,connect,підключати / з'єднувати
+B1,disconnect,відключати
+B1,install,встановлювати
+B1,delete,видаляти
+B1,share,ділитися
+B1,send,надсилати
+B1,receive,отримувати
+B1,log in,увійти в акаунт
+B1,log out,вийти з акаунта
+B1,sign up,зареєструватися
+B1,charge,заряджати
+B1,run out of battery,розрядитися
+B1,work properly,працювати належним чином
+B1,healthy lifestyle,здоровий спосіб життя
+B1,lifestyle,спосіб життя
+B1,diet,дієта / харчування
+B1,balanced diet,збалансоване харчування
+B1,meal,прийом їжі
+B1,nutrition,харчування
+B1,nutrient,поживна речовина
+B1,protein,білок
+B1,carbohydrate,вуглевод
+B1,fat,жир
+B1,vitamin,вітамін
+B1,sugar,цукор
+B1,salt,сіль
+B1,calorie,калорія
+B1,vegetarian,вегетаріанський / вегетаріанець
+B1,vegan,веганський / веган
+B1,workout,тренування
+B1,strength,сила
+B1,weight,вага
+B1,lose weight,худнути
+B1,gain weight,набирати вагу
+B1,keep fit,підтримувати форму
+B1,stay healthy,залишатися здоровим
+B1,get enough sleep,достатньо спати
+B1,sleep schedule,режим сну
+B1,mental health,ментальне / психічне здоров'я
+B1,well-being,добробут / хороше самопочуття
+B1,burnout,вигорання
+B1,depression,депресія
+B1,anxiety,тривожність
+B1,pressure,тиск
+B1,self-care,турбота про себе
+B1,motivation,мотивація
+B1,habit,звичка
+B1,routine,розпорядок
+B1,avoid,уникати
+B1,increase,збільшувати
+B1,quit,кидати / припиняти
+B1,give up,здаватися / відмовлятися
+B1,cut down on,скорочувати споживання
+B1,work out,тренуватися
+B1,warm up,розігріватися
+B1,cool down,робити заминку
+B1,finance,фінанси
+B1,bank,банк
+B1,bank account,банківський рахунок
+B1,cash machine / ATM,банкомат
+B1,bank transfer,банківський переказ
+B1,payment,платіж
+B1,income,дохід
+B1,expense,витрата
+B1,spending,витрати
+B1,bill,рахунок
+B1,rent,оренда
+B1,tax,податок
+B1,loan,кредит / позика
+B1,debt,борг
+B1,interest,відсоток
+B1,budget,бюджет
+B1,savings,заощадження
+B1,saving,заощадження / процес накопичення
+B1,profit,прибуток
+B1,loss,збиток
+B1,service,послуга
+B1,business owner,власник бізнесу
+B1,entrepreneur,підприємець
+B1,investment,інвестиція
+B1,invest,інвестувати
+B1,earn,заробляти
+B1,afford,дозволити собі
+B1,pay back,повертати гроші
+B1,set a budget,встановити бюджет
+B1,save money,заощаджувати гроші
+B1,spend money,витрачати гроші
+B1,make money,заробляти гроші
+B1,open an account,відкрити рахунок
+B1,withdraw money,знімати гроші
+B1,deposit money,класти гроші на рахунок
+B1,transfer money,переказувати гроші
+B1,come back,повертатися
+B1,come in,заходити
+B1,go away,їхати / йти геть
+B1,look for,шукати
+B1,look after,доглядати за
+B1,look at,дивитися на
+B1,find out,дізнаватися
+B1,pick up,підбирати / забирати
+B1,put on,одягати
+B1,take off,знімати одяг
+B1,give back,повертати
+B1,take back,повертати
+B1,bring back,приносити назад
+B1,call back,передзвонювати
+B1,hang up,класти слухавку
+B1,fill in,заповнювати
+B1,write down,записувати
+B1,set up,налаштовувати / організовувати
+B1,run out of,закінчитися
+B1,deal with,мати справу з / справлятися з
+B1,grow up,вирости
+B1,carry on,продовжувати
+B1,keep on,продовжувати
+B1,calm down,заспокоюватися
+B1,cheer up,підбадьоритися / підбадьорити
+B1,hurry up,поспішати
+B1,wait for,чекати на
+B1,a piece of cake,дуже легко
+B1,break the ice,розрядити атмосферу / започаткувати розмову
+B1,under the weather,почуватися недобре
+B1,once in a blue moon,дуже рідко
+B1,better late than never,"краще пізно, ніж ніколи"
+B1,no big deal,нічого страшного
+B1,good luck,удачі
+B1,fingers crossed,тримаю кулачки
+B1,take your time,не поспішай
+B1,in a hurry,поспішаючи
+B1,on time,вчасно
+B1,in time,вчасно / до потрібного моменту
+B1,of course,звичайно
+B1,for example,наприклад
+B1,in my opinion,на мою думку
+B1,as far as I know,наскільки я знаю
+B1,it depends,це залежить
+B1,to be honest,чесно кажучи
+B1,by the way,до речі
+B1,at the moment,наразі / зараз
+B1,in the end,зрештою
+B1,at first,спочатку
+B1,for a while,деякий час
+B1,a lot of,багато
+B1,a little,трохи
+B1,a few,декілька
+B1,not at all,зовсім ні
+B1,as usual,як завжди
+B1,in fact,насправді
+B2,crime,злочин
+B2,criminal,злочинець / кримінальний
+B2,criminal,злочинний
+B2,offence / offense,правопорушення
+B2,law,закон
+B2,legal,законний / юридичний
+B2,illegal,незаконний
+B2,justice,правосуддя / справедливість
+B2,court,суд
+B2,judge,суддя
+B2,defendant,підсудний / обвинувачений
+B2,victim,жертва / потерпілий
+B2,witness,свідок
+B2,suspect,підозрюваний
+B2,prison,в'язниця
+B2,prisoner,ув'язнений
+B2,sentence,вирок / покарання
+B2,trial,судовий процес
+B2,evidence,докази
+B2,proof,доказ
+B2,investigation,розслідування
+B2,investigator,слідчий
+B2,police investigation,поліцейське розслідування
+B2,arrest,арешт / заарештовувати
+B2,charge,звинувачення / висувати звинувачення
+B2,accuse,звинувачувати
+B2,convict,визнавати винним / засуджувати
+B2,guilty,винний
+B2,innocent,невинний
+B2,punishment,покарання
+B2,fine,штраф
+B2,jail,в'язниця / тюрма
+B2,theft,крадіжка
+B2,thief,злодій
+B2,robbery,пограбування
+B2,robber,грабіжник
+B2,burglary,крадіжка зі зломом
+B2,burglar,квартирний злодій
+B2,murder,вбивство
+B2,murderer,вбивця
+B2,assault,напад / фізичний напад
+B2,fraud,шахрайство
+B2,scam,афера / шахрайство
+B2,bribery,хабарництво
+B2,bribe,хабар
+B2,corruption,корупція
+B2,kidnapping,викрадення людини
+B2,blackmail,шантаж
+B2,vandalism,вандалізм
+B2,cybercrime,кіберзлочинність
+B2,drug dealing,торгівля наркотиками
+B2,self-defence,самооборона
+B2,warrant,ордер
+B2,alibi,алібі
+B2,motive,мотив
+B2,fingerprint,відбиток пальця
+B2,DNA,ДНК
+B2,security camera,камера спостереження
+B2,break the law,порушувати закон
+B2,obey the law,дотримуватися закону
+B2,commit a crime,скоїти злочин
+B2,report a crime,повідомити про злочин
+B2,press charges,висунути звинувачення
+B2,plead guilty,визнати свою провину
+B2,plead not guilty,не визнати себе винним
+B2,serve a sentence,відбувати покарання
+B2,be sentenced to,бути засудженим до
+B2,be arrested for,бути заарештованим за
+B2,be charged with,бути звинуваченим у
+B2,be found guilty,бути визнаним винним
+B2,be found innocent,бути визнаним невинним
+B2,bring someone to justice,притягнути когось до відповідальності
+B2,environmental,екологічний
+B2,greenhouse effect,парниковий ефект
+B2,greenhouse gas,парниковий газ
+B2,carbon dioxide,вуглекислий газ
+B2,carbon footprint,вуглецевий слід
+B2,emission,викид
+B2,soil pollution,забруднення ґрунту
+B2,waste,відходи / марнування
+B2,toxic waste,токсичні відходи
+B2,landfill,сміттєзвалище
+B2,recyclable,придатний до переробки
+B2,renewable energy,відновлювана енергія
+B2,solar energy,сонячна енергія
+B2,wind energy,вітрова енергія
+B2,fossil fuels,викопне паливо
+B2,coal,вугілля
+B2,oil,нафта
+B2,natural gas,природний газ
+B2,resource,ресурс
+B2,natural resources,природні ресурси
+B2,energy consumption,споживання енергії
+B2,deforestation,вирубка лісів
+B2,desertification,опустелювання
+B2,drought,посуха
+B2,flood,повінь
+B2,wildfire,лісова пожежа
+B2,extreme weather,екстремальні погодні явища
+B2,natural disaster,стихійне лихо
+B2,earthquake,землетрус
+B2,hurricane,ураган
+B2,species,вид
+B2,endangered species,"види, що перебувають під загрозою зникнення"
+B2,wildlife,дика природа / дикі тварини
+B2,habitat,середовище існування
+B2,ecosystem,екосистема
+B2,biodiversity,біорізноманіття
+B2,conservation,охорона природи
+B2,sustainability,сталий розвиток
+B2,sustainable,сталий / екологічно безпечний
+B2,eco-friendly,екологічний
+B2,organic,органічний
+B2,overpopulation,перенаселення
+B2,poverty,бідність
+B2,inequality,нерівність
+B2,hunger,голод
+B2,homelessness,бездомність
+B2,unemployment,безробіття
+B2,migration,міграція
+B2,refugee,біженець
+B2,global issue,глобальна проблема
+B2,social issue,соціальна проблема
+B2,human rights,права людини
+B2,reduce emissions,зменшувати викиди
+B2,protect the environment,захищати довкілля
+B2,save energy,економити енергію
+B2,reduce waste,зменшувати кількість відходів
+B2,recycle waste,переробляти відходи
+B2,use renewable energy,використовувати відновлювану енергію
+B2,raise awareness,підвищувати обізнаність
+B2,take action,вживати заходів
+B2,tackle a problem,боротися з проблемою
+B2,have an impact on,впливати на
+B2,industry,галузь
+B2,market research,дослідження ринку
+B2,competitor,конкурент
+B2,competition,конкуренція
+B2,customer,клієнт / покупець
+B2,consumer,споживач
+B2,target audience,цільова аудиторія
+B2,target market,цільовий ринок
+B2,brand awareness,впізнаваність бренду
+B2,product,продукт / товар
+B2,advertisement,реклама
+B2,advertising,реклама
+B2,campaign,кампанія
+B2,marketing strategy,маркетингова стратегія
+B2,marketing campaign,маркетингова кампанія
+B2,social media marketing,маркетинг у соцмережах
+B2,content creator,творець контенту
+B2,promotion,просування
+B2,sales,продажі
+B2,revenue,дохід / виручка
+B2,cost,вартість / витрати
+B2,investor,інвестор
+B2,share,акція / частка
+B2,stock market,фондовий ринок
+B2,startup,стартап
+B2,entrepreneurship,підприємництво
+B2,department,відділ
+B2,management,управління / менеджмент
+B2,leadership,лідерство
+B2,position,посада
+B2,career,кар'єра
+B2,promotion,підвищення
+B2,wage,заробітна плата
+B2,bonus,премія / бонус
+B2,contract,контракт
+B2,workload,робоче навантаження
+B2,deadline,кінцевий термін
+B2,responsibility,відповідальність
+B2,achievement,досягнення
+B2,opportunity,можливість
+B2,resign,звільнятися за власним бажанням
+B2,retire,виходити на пенсію
+B2,hire,наймати
+B2,fire,звільняти
+B2,promote,підвищувати на посаді
+B2,manage,керувати
+B2,lead,очолювати
+B2,launch,запускати
+B2,expand,розширювати
+B2,grow,зростати / розвиватися
+B2,compete,конкурувати
+B2,negotiate,вести переговори
+B2,persuade,переконувати
+B2,advertise,рекламувати
+B2,promote a product,просувати продукт
+B2,increase sales,збільшувати продажі
+B2,make a profit,отримувати прибуток
+B2,reduce costs,скорочувати витрати
+B2,meet a deadline,вкластися в дедлайн
+B2,gain experience,отримувати досвід
+B2,build a career,будувати кар'єру
+B2,run a business,керувати бізнесом
+B2,start a business,започаткувати бізнес
+B2,work your way up,просуватися кар'єрними сходами
+B2,work under pressure,працювати під тиском
+B2,be in charge of,відповідати за / керувати
+B2,take responsibility for,брати відповідальність за
+B2,medicine,медицина
+B2,medical,медичний
+B2,healthcare,охорона здоров'я
+B2,healthcare system,система охорони здоров'я
+B2,treatment,лікування
+B2,diagnosis,діагноз / діагностика
+B2,condition,стан / захворювання
+B2,specialist,спеціаліст
+B2,surgeon,хірург
+B2,researcher,дослідник
+B2,laboratory / lab,лабораторія
+B2,experiment,експеримент
+B2,study,дослідження
+B2,theory,теорія
+B2,discovery,відкриття
+B2,invention,винахід
+B2,vaccine,вакцина
+B2,virus,вірус
+B2,bacteria,бактерії
+B2,infection,інфекція
+B2,cancer,рак
+B2,diabetes,діабет
+B2,allergy,алергія
+B2,heart disease,серцево-судинне захворювання
+B2,mental health,психічне здоров'я
+B2,blood pressure,кров'яний тиск
+B2,immune system,імунна система
+B2,organ,орган
+B2,cell,клітина
+B2,gene,ген
+B2,lung,легеня
+B2,drug,лікарський препарат
+B2,prescription,рецепт
+B2,side effect,побічний ефект
+B2,operation,операція
+B2,surgery,хірургічне втручання
+B2,emergency,надзвичайна ситуація
+B2,ambulance,швидка допомога
+B2,prevent,запобігати
+B2,treat,лікувати
+B2,cure,виліковувати
+B2,diagnose,діагностувати
+B2,examine,оглядати / досліджувати
+B2,prescribe,призначати ліки
+B2,suffer from,страждати від
+B2,carry out research,проводити дослідження
+B2,conduct an experiment,проводити експеримент
+B2,make a discovery,зробити відкриття
+B2,prove a theory,довести теорію
+B2,collect data,збирати дані
+B2,analyse data,аналізувати дані
+B2,scientific evidence,наукові докази
+B2,according to research,згідно з дослідженнями
+B2,make a decision,прийняти рішення
+B2,make a mistake,зробити помилку
+B2,make an effort,докладати зусиль
+B2,make a difference,змінювати ситуацію / мати значення
+B2,make an assumption,робити припущення
+B2,make a complaint,подавати скаргу
+B2,take advantage of,скористатися
+B2,take part in,брати участь
+B2,take into account,брати до уваги
+B2,take a risk,ризикувати
+B2,take control of,взяти під контроль
+B2,have an impact,мати вплив
+B2,have access to,мати доступ до
+B2,have a positive effect,мати позитивний ефект
+B2,have a negative effect,мати негативний ефект
+B2,pay attention,звертати увагу
+B2,pay a fine,платити штраф
+B2,pay a visit,відвідати
+B2,keep a promise,дотримуватися обіцянки
+B2,keep a secret,зберігати секрет
+B2,reach an agreement,досягти домовленості
+B2,reach a conclusion,дійти висновку
+B2,raise money,збирати гроші
+B2,meet expectations,виправдати очікування
+B2,solve a problem,вирішити проблему
+B2,deal with a problem,мати справу з проблемою
+B2,face a challenge,зіткнутися з викликом
+B2,overcome a problem,подолати проблему
+B2,achieve a goal,досягти мети
+B2,achieve success,досягти успіху
+B2,gain confidence,набути впевненості
+B2,lose confidence,втратити впевненість
+B2,strongly believe,твердо вірити
+B2,deeply concerned,глибоко стурбований
+B2,highly successful,надзвичайно успішний
+B2,widely known,широко відомий
+B2,closely related,тісно пов'язаний
+B2,seriously injured,серйозно травмований
+B2,completely different,повністю відмінний
+B2,highly competitive,дуже конкурентний
+B2,financially independent,фінансово незалежний
+B2,bring up,порушувати тему / виховувати
+B2,bring about,спричиняти
+B2,bring in,приносити дохід / вводити
+B2,carry out,виконувати / проводити
+B2,come across,випадково натрапити
+B2,come up with,придумати
+B2,cut off,відключити / відрізати
+B2,end up,зрештою опинитися
+B2,figure out,розібратися / зрозуміти
+B2,get across,донести ідею
+B2,get away with,уникнути покарання за
+B2,get over,подолати / оговтатися
+B2,get rid of,позбутися
+B2,give in,поступитися
+B2,go ahead,продовжувати / починати
+B2,go through,пройти через / пережити
+B2,keep up with,встигати за
+B2,look into,розслідувати / розглянути
+B2,look up to,поважати / захоплюватися
+B2,look down on,дивитися зверхньо
+B2,point out,вказувати / зазначати
+B2,put off,відкладати
+B2,put up with,терпіти
+B2,run into,випадково зустріти / зіткнутися
+B2,sort out,владнати / розібратися
+B2,stand for,означати / представляти
+B2,take after,бути схожим на родича
+B2,take up,почати займатися
+B2,turn down,відмовити / зменшити
+B2,turn out,виявитися
+B2,break down,зламатися / втратити контроль
+B2,break into,проникнути зі зломом
+B2,break out,спалахнути / початися
+B2,call off,скасувати
+B2,come up,виникнути
+B2,fall apart,розпастися
+B2,hold on,зачекати / триматися
+B2,let down,підвести
+B2,look forward to,з нетерпінням чекати
+B2,put forward,запропонувати
+B2,set off,вирушити / спричинити
+B2,take over,перебрати контроль
+B2,think over,обдумати
+B2,turn up,з'явитися / збільшити
+B2,a blessing in disguise,приховане благо
+B2,hit the nail on the head,влучити в саму точку
+B2,cost an arm and a leg,коштувати дуже дорого
+B2,speak of the devil,легкий на помині
+B2,the tip of the iceberg,лише верхівка айсберга
+B2,go the extra mile,докласти додаткових зусиль
+B2,get the ball rolling,розпочати процес
+B2,be on the same page,однаково розуміти ситуацію
+B2,think outside the box,мислити нестандартно
+B2,a win-win situation,"ситуація, вигідна для всіх"
+B2,in the long run,у довгостроковій перспективі
+B2,at the end of the day,зрештою
+B2,by all means,неодмінно / звичайно
+B2,on the other hand,з іншого боку
+B2,in the meantime,тим часом
+B2,sooner or later,рано чи пізно
+B2,from scratch,з нуля
+B2,in charge of,відповідальний за
+B2,out of the blue,абсолютно несподівано
+B2,on the spot,на місці / одразу
+B2,under pressure,під тиском
+B2,out of control,поза контролем
+B2,in the middle of,посередині / в процесі
+B2,in advance,заздалегідь
+B2,for good,назавжди
+B2,at risk,під загрозою / у зоні ризику
+B2,in the public eye,на очах у громадськості
+B2,behind the scenes,за лаштунками
+B2,read between the lines,читати між рядків
+B2,miss the point,не зрозуміти суті
+B2,see eye to eye,бути однієї думки
+B2,keep an eye on,стежити за
+B2,give someone a hand,допомогти комусь
+B2,make ends meet,зводити кінці з кінцями
+B2,break even,вийти в нуль
+B2,pull someone's leg,жартувати над кимось
+B2,spill the beans,видати секрет
+B2,bite the bullet,змиритися з неприємною ситуацією й зробити необхідне
+B2,call it a day,закінчити роботу на сьогодні
+B2,take it easy,не напружуватися / розслабитися
+B2,better safe than sorry,краще перестрахуватися
+B2,the last straw,остання крапля
+C1,concept,поняття / концепція
+C1,notion,поняття / уявлення
+C1,idea,ідея
+C1,perspective,перспектива / погляд
+C1,viewpoint,точка зору
+C1,approach,підхід
+C1,principle,принцип
+C1,value,цінність
+C1,belief,переконання
+C1,assumption,припущення
+C1,perception,сприйняття
+C1,awareness,усвідомлення
+C1,consciousness,свідомість
+C1,identity,ідентичність
+C1,existence,існування
+C1,reality,реальність
+C1,truth,істина / правда
+C1,meaning,значення / сенс
+C1,purpose,мета / призначення
+C1,freedom,свобода
+C1,morality,мораль
+C1,ethics,етика
+C1,justice,справедливість / правосуддя
+C1,equality,рівність
+C1,humanity,людство / гуманність
+C1,individuality,індивідуальність
+C1,society,суспільство
+C1,community,спільнота
+C1,culture,культура
+C1,tradition,традиція
+C1,progress,прогрес
+C1,development,розвиток
+C1,change,зміна
+C1,power,влада / сила
+C1,authority,авторитет / влада
+C1,influence,вплив
+C1,control,контроль
+C1,free will,свобода волі
+C1,fate,доля
+C1,chance,випадковість / шанс
+C1,rationality,раціональність
+C1,logic,логіка
+C1,reasoning,міркування
+C1,intuition,інтуїція
+C1,wisdom,мудрість
+C1,ignorance,необізнаність / невігластво
+C1,certainty,впевненість / визначеність
+C1,uncertainty,невизначеність
+C1,possibility,можливість
+C1,probability,ймовірність
+C1,consequence,наслідок
+C1,contradiction,суперечність
+C1,paradox,парадокс
+C1,bias,упередженість
+C1,objectivity,об'єктивність
+C1,subjectivity,суб'єктивність
+C1,complexity,складність
+C1,ambiguity,неоднозначність
+C1,controversy,суперечка / спірне питання
+C1,phenomenon,явище
+C1,dimension,аспект / вимір
+C1,context,контекст
+C1,implication,прихований наслідок / значення
+C1,significance,значущість
+C1,relevance,доречність / актуальність
+C1,fundamental,фундаментальний
+C1,essential,суттєвий / необхідний
+C1,abstract,абстрактний
+C1,concrete,конкретний
+C1,complex,складний
+C1,subtle,тонкий / нюансований
+C1,profound,глибокий
+C1,meaningful,значущий
+C1,universal,універсальний
+C1,subjective,суб'єктивний
+C1,objective,об'єктивний
+C1,rational,раціональний
+C1,irrational,ірраціональний
+C1,ethical,етичний
+C1,moral,моральний
+C1,immoral,аморальний
+C1,politics,політика
+C1,politician,політик
+C1,government,уряд
+C1,state,держава
+C1,citizen,громадянин
+C1,citizenship,громадянство
+C1,democracy,демократія
+C1,democratic,демократичний
+C1,dictatorship,диктатура
+C1,election,вибори
+C1,electorate,електорат
+C1,vote,голос / голосувати
+C1,voter,виборець
+C1,political party,політична партія
+C1,opposition,опозиція
+C1,policy,політика / курс / стратегія
+C1,legislation,законодавство
+C1,constitution,конституція
+C1,reform,реформа
+C1,institution,інституція
+C1,bureaucracy,бюрократія
+C1,transparency,прозорість
+C1,accountability,підзвітність / відповідальність
+C1,governance,управління / врядування
+C1,public sector,державний сектор
+C1,private sector,приватний сектор
+C1,civil society,громадянське суспільство
+C1,civil rights,громадянські права
+C1,freedom of speech,свобода слова
+C1,freedom of expression,свобода вираження поглядів
+C1,social justice,соціальна справедливість
+C1,social inequality,соціальна нерівність
+C1,social class,соціальний клас
+C1,working class,робітничий клас
+C1,middle class,середній клас
+C1,upper class,вищий клас
+C1,wealth,багатство
+C1,social mobility,соціальна мобільність
+C1,discrimination,дискримінація
+C1,prejudice,упередження
+C1,stereotype,стереотип
+C1,inclusion,інклюзія
+C1,exclusion,виключення / ізоляція
+C1,diversity,різноманіття
+C1,minority,меншина
+C1,majority,більшість
+C1,population,населення
+C1,demographic,демографічний показник / демографічна група
+C1,immigration,імміграція
+C1,emigration,еміграція
+C1,urbanisation,урбанізація
+C1,urban development,міський розвиток
+C1,urban planning,міське планування
+C1,city planning,планування міста
+C1,infrastructure,інфраструктура
+C1,housing,житло
+C1,housing shortage,дефіцит житла
+C1,affordable housing,доступне житло
+C1,neighbourhood,район / мікрорайон
+C1,suburb,передмістя
+C1,outskirts,околиці
+C1,downtown,центральна частина міста
+C1,population density,щільність населення
+C1,traffic congestion,затори / перевантаженість доріг
+C1,urban sprawl,розростання міста
+C1,green space,зелена зона
+C1,public space,громадський простір
+C1,pedestrian zone,пішохідна зона
+C1,gentrification,джентрифікація
+C1,sustainable development,сталий розвиток
+C1,urban regeneration,відновлення / оновлення міських районів
+C1,quality of life,якість життя
+C1,large,великий за розміром / масштабний
+C1,huge,величезний
+C1,enormous,надзвичайно великий
+C1,massive,масивний / дуже великий
+C1,tiny,крихітний
+C1,minor,незначний
+C1,negligible,мізерний / незначний
+C1,significant,значущий / істотний
+C1,crucial,критично важливий
+C1,vital,життєво необхідний
+C1,intriguing,інтригуючий / дуже цікавий
+C1,fascinating,захопливий
+C1,compelling,переконливий / захопливий
+C1,appealing,привабливий / приємний
+C1,stunning,приголомшливо красивий
+C1,gorgeous,надзвичайно красивий
+C1,pleased,задоволений
+C1,delighted,дуже задоволений / у захваті
+C1,content,задоволений / вдоволений
+C1,thrilled,надзвичайно схвильований / у захваті
+C1,unhappy,нещасливий
+C1,upset,засмучений / схвильований
+C1,disappointed,розчарований
+C1,devastated,спустошений / надзвичайно засмучений
+C1,annoyed,роздратований
+C1,irritated,роздратований
+C1,frustrated,розчарований через перешкоди
+C1,furious,шалено злий
+C1,outraged,обурений
+C1,clever,кмітливий
+C1,intelligent,інтелектуально розвинений
+C1,bright,здібний / тямущий
+C1,wise,мудрий
+C1,sensible,розсудливий
+C1,unusual,незвичайний
+C1,odd,дивний / чудернацький
+C1,peculiar,своєрідний / дивний
+C1,weird,дуже дивний
+C1,issue,питання / проблема
+C1,difficulty,труднощі
+C1,obstacle,перешкода
+C1,challenge,складне завдання / виклик
+C1,matter,питання / справа
+C1,tell,повідомляти / розповідати
+C1,state,заявляти
+C1,claim,стверджувати
+C1,argue,стверджувати й наводити аргументи
+C1,assert,наполегливо стверджувати
+C1,mention,згадувати
+C1,believe,вважати / вірити
+C1,assume,припускати
+C1,suppose,припускати
+C1,consider,розглядати / вважати
+C1,reckon,вважати / припускати
+C1,maintain,стверджувати / наполягати
+C1,assist,допомагати
+C1,support,підтримувати
+C1,facilitate,сприяти / полегшувати
+C1,enable,робити можливим
+C1,alter,змінювати
+C1,modify,змінювати / коригувати
+C1,adjust,коригувати / пристосовувати
+C1,transform,докорінно змінювати
+C1,adapt,адаптувати / пристосовувати
+C1,begin,починати
+C1,launch,запускати / розпочинати
+C1,initiate,ініціювати
+C1,undertake,братися за / здійснювати
+C1,demonstrate,демонструвати
+C1,illustrate,ілюструвати / показувати на прикладі
+C1,indicate,вказувати
+C1,reveal,розкривати / виявляти
+C1,highlight,підкреслювати / виділяти
+C1,academic writing,академічне письмо
+C1,academic language,академічна мова
+C1,argument,аргумент
+C1,claim,твердження
+C1,counterargument,контраргумент
+C1,reference,посилання / джерело
+C1,citation,цитування
+C1,quotation,цитата
+C1,paraphrase,перефразування
+C1,summary,резюме / короткий виклад
+C1,analysis,аналіз
+C1,interpretation,інтерпретація
+C1,discussion,обговорення
+C1,conclusion,висновок
+C1,introduction,вступ
+C1,paragraph,абзац
+C1,thesis statement,теза
+C1,research question,дослідницьке питання
+C1,hypothesis,гіпотеза
+C1,methodology,методологія
+C1,findings,результати дослідження
+C1,data,дані
+C1,variable,змінна
+C1,factor,фактор
+C1,correlation,кореляція
+C1,framework,структура / концептуальна основа
+C1,validity,достовірність / валідність
+C1,reliability,надійність
+C1,objective,мета / ціль
+C1,criterion,критерій
+C1,aspect,аспект
+C1,define,визначати
+C1,analyse,аналізувати
+C1,evaluate,оцінювати
+C1,assess,оцінювати
+C1,examine,досліджувати
+C1,investigate,досліджувати
+C1,suggest,припускати / свідчити
+C1,imply,мати на увазі / передбачати
+C1,establish,встановлювати / доводити
+C1,identify,визначати / виявляти
+C1,compare,порівнювати
+C1,contrast,протиставляти
+C1,interpret,інтерпретувати
+C1,conclude,робити висновок
+C1,justify,обґрунтовувати
+C1,acknowledge,визнавати
+C1,challenge,ставити під сумнів
+C1,address,розглядати / порушувати питання
+C1,emphasise,наголошувати
+C1,elaborate,детально пояснювати
+C1,contribute,сприяти / робити внесок
+C1,conduct research,проводити дослідження
+C1,draw a conclusion,робити висновок
+C1,provide evidence,надавати докази
+C1,support an argument,підтверджувати аргумент
+C1,raise an issue,порушувати питання
+C1,address an issue,розглядати проблему
+C1,take into consideration,брати до уваги
+C1,play a role,відігравати роль
+C1,have implications,мати наслідки
+C1,pose a threat,становити загрозу
+C1,pose a challenge,становити виклик
+C1,meet a requirement,відповідати вимозі
+C1,achieve an objective,досягати мети
+C1,achieve a goal,досягати цілі
+C1,provide insight,давати глибше розуміння
+C1,gain insight into,отримати уявлення про
+C1,draw attention to,привертати увагу до
+C1,shed light on,проливати світло на
+C1,give rise to,спричиняти
+C1,lead to,призводити до
+C1,result in,призводити до
+C1,result from,бути результатом
+C1,stem from,походити від / бути спричиненим
+C1,be associated with,бути пов'язаним із
+C1,be linked to,бути пов'язаним із
+C1,be relevant to,бути актуальним для
+C1,be consistent with,відповідати / узгоджуватися з
+C1,be subject to,підлягати / залежати від
+C1,in terms of,з точки зору / щодо
+C1,with regard to,щодо
+C1,with respect to,стосовно
+C1,in relation to,у зв'язку з / щодо
+C1,deliverable,"результат / матеріал, який потрібно надати"
+C1,stakeholder,зацікавлена сторона
+C1,workflow,робочий процес
+C1,productivity,продуктивність
+C1,efficiency,ефективність
+C1,performance,результативність
+C1,feedback,зворотний зв'язок
+C1,benchmark,еталонний показник
+C1,milestone,ключовий етап
+C1,priority,пріоритет
+C1,strategy,стратегія
+C1,target,цільовий показник
+C1,outcome,результат
+C1,output,результат / обсяг виконаної роботи
+C1,input,внесок / вхідні дані
+C1,capacity,спроможність / ресурсна можливість
+C1,scalability,масштабованість
+C1,profit margin,маржа прибутку
+C1,return on investment,окупність інвестицій
+C1,value proposition,ціннісна пропозиція
+C1,competitive advantage,конкурентна перевага
+C1,customer retention,утримання клієнтів
+C1,brand positioning,позиціонування бренду
+C1,market share,частка ринку
+C1,business model,бізнес-модель
+C1,risk assessment,оцінка ризиків
+C1,problem-solving,вирішення проблем
+C1,decision-making,прийняття рішень
+C1,team-building,командоутворення
+C1,networking,професійне налагодження зв'язків
+C1,work-life balance,баланс між роботою та особистим життям
+C1,a double-edged sword,двосічний меч / щось із позитивними й негативними наслідками
+C1,a grey area,сіра зона / неоднозначне питання
+C1,a slippery slope,"небезпечний шлях, що може призвести до гірших наслідків"
+C1,the bigger picture,загальна картина
+C1,a wake-up call,тривожний сигнал / привід схаменутися
+C1,a turning point,переломний момент
+C1,a vicious circle,замкнене коло
+C1,a vicious cycle,порочне коло
+C1,a chain reaction,ланцюгова реакція
+C1,a snowball effect,ефект снігової кулі
+C1,a domino effect,ефект доміно
+C1,a ripple effect,хвильовий ефект / низка наслідків
+C1,the elephant in the room,"очевидна проблема, яку всі ігнорують"
+C1,the bottom line,головний висновок / суть
+C1,the bigger fish to fry,є важливіші справи
+C1,a storm in a teacup,буря в склянці води
+C1,much ado about nothing,багато галасу з нічого
+C1,go down a rabbit hole,зануритися в тему й втратити відчуття часу
+C1,open a can of worms,відкрити складну / проблемну тему
+C1,put something under the microscope,детально досліджувати
+C1,move the goalposts,змінювати умови / правила в процесі
+C1,hit a nerve,зачепити болючу тему
+C1,strike a chord,викликати сильний відгук
+C1,rock the boat,порушити стабільність / створити проблеми
+C1,keep something at bay,тримати щось під контролем / не допускати
+C1,weather the storm,пережити складний період
+C1,weather the crisis,пережити кризу
+C1,on thin ice,бути в небезпечному становищі
+C1,burn bridges,спалювати мости
+C1,cross that bridge when we come to it,"вирішувати проблему, коли вона виникне"
+C1,cut to the chase,перейти до суті
+C1,beat around the bush,ходити навколо суті
+C1,get to the heart of the matter,дістатися суті питання
+C1,not see eye to eye,не погоджуватися / мати різні погляди
+C1,play devil's advocate,навмисно займати протилежну позицію
+C1,devil is in the details,усе залежить від деталей
+C1,food for thought,їжа для роздумів
+C1,a matter of perspective,питання точки зору
+C1,a fine line between,тонка межа між
+C1,in a nutshell,коротко кажучи
+C1,in the grand scheme of things,у ширшій перспективі
+C1,by and large,загалом
+C1,for the most part,здебільшого
+C1,all things considered,з урахуванням усього
+C1,when all is said and done,зрештою
+C1,at face value,сприймати буквально / за номінальною цінністю
+C1,for what it's worth,наскільки це має значення
+C1,easier said than done,"легше сказати, ніж зробити"
+C1,a tough pill to swallow,"неприємна правда, яку важко прийняти"
+C1,kill two birds with one stone,вбити двох зайців одним пострілом
+C1,put all your eggs in one basket,поставити все на одну карту
+C1,have a lot on your plate,мати дуже багато справ
+C1,be snowed under,бути заваленим роботою
+C1,keep the ball rolling,підтримувати процес
+C1,raise the bar,підвищувати стандарти
+C1,set the bar high,встановлювати високу планку
+C1,go against the grain,діяти всупереч загальноприйнятому
+C1,break new ground,прокладати новий шлях / робити новаторську роботу
+C1,stand your ground,відстоювати свою позицію
+C1,take something with a pinch of salt,сприймати щось критично
+C1,as far as I'm concerned,наскільки мене стосується / на мою думку
+C1,from my perspective,з моєї точки зору
+C1,from my point of view,з моєї точки зору
+C1,in my view,на мою думку
+C1,to my mind,на мою думку
+C1,it could be argued that,"можна стверджувати, що"
+C1,there is no denying that,"не можна заперечувати, що"
+C1,there is no doubt that,"немає сумніву, що"
+C1,it is worth noting that,"варто зазначити, що"
+C1,it should be noted that,"слід зазначити, що"
+C1,it is important to bear in mind that,"важливо пам'ятати, що"
+C1,with this in mind,маючи це на увазі
+C1,taking this into account,враховуючи це
+C1,given that,"враховуючи, що"
+C1,considering that,"беручи до уваги, що"
+C1,in light of,у світлі / з огляду на
+C1,as for,що стосується
+C1,as regards,щодо
+C1,when it comes to,коли йдеться про
+C1,in contrast,на противагу
+C1,by contrast,на відміну від цього
+C1,on the contrary,навпаки
+C1,conversely,навпаки / з іншого боку
+C1,nevertheless,тим не менш
+C1,nonetheless,тим не менш
+C1,even so,навіть так
+C1,despite this,попри це
+C1,in spite of this,незважаючи на це
+C1,whereas,тоді як
+C1,albeit,"хоча / попри те, що"
+C1,provided that,"за умови, що"
+C1,assuming that,"припускаючи, що"
+C1,unless,якщо не
+C1,otherwise,інакше
+C1,therefore,тому / отже
+C1,thus,таким чином
+C1,hence,звідси / отже
+C1,consequently,отже / внаслідок цього
+C1,as a result,у результаті
+C1,as a consequence,як наслідок
+C1,accordingly,відповідно / тому
+C1,for this reason,з цієї причини
+C1,that being said,з огляду на це / водночас
+C1,having said that,водночас / попри це
+C1,be that as it may,як би там не було
+C1,in any case,у будь-якому разі
+C1,in any event,у будь-якому разі
+C1,either way,у будь-якому випадку
+C1,to put it another way,іншими словами
+C1,in other words,іншими словами
+C1,to put it simply,простіше кажучи
+C1,more specifically,конкретніше
+C1,more importantly,що важливіше
+C1,most importantly,найважливіше
+C1,above all,передусім
+C1,in particular,зокрема
+C1,namely,а саме
+C1,to illustrate,щоб проілюструвати
+C1,by comparison,для порівняння
+C1,similarly,подібним чином
+C1,likewise,так само
+C1,furthermore,крім того
+C1,moreover,більше того
+C1,not only... but also...,"не лише..., а й..."
+C1,to some extent,певною мірою
+C1,to a certain extent,певною мірою
+C1,in some respects,у деяких аспектах
+C1,generally speaking,загалом кажучи
+C1,broadly speaking,загалом кажучи
+C1,strictly speaking,строго кажучи
+C1,ultimately,зрештою / в кінцевому підсумку
+C1,overall,загалом
+C1,in essence,по суті
+C1,essentially,по суті
+C1,fundamentally,принципово / по суті
