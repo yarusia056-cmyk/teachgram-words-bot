@@ -1,4 +1,5 @@
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
@@ -13,7 +14,7 @@ from config import WORDS_PER_DAY
 
 
 async def send_daily_words(bot):
-    current_hour = datetime.now().hour
+    current_hour = datetime.now(ZoneInfo("Europe/Kyiv")).hour
     users = get_users_by_hour(current_hour)
 
     for user in users:
@@ -46,7 +47,7 @@ async def send_daily_words(bot):
 
 
 def setup_scheduler(bot):
-    scheduler = AsyncIOScheduler()
+    scheduler = AsyncIOScheduler(timezone="Europe/Kyiv")
     # Перевірка щогодини о :00 - хто обрав цю годину, тому надсилаємо слова
     scheduler.add_job(send_daily_words, "cron", minute=0, args=[bot])
     scheduler.start()
