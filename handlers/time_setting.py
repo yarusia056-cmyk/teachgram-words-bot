@@ -2,7 +2,7 @@ from aiogram import Router, F
 from aiogram.filters import Command
 from aiogram.types import CallbackQuery, Message
 
-from database.models import set_user_hour, get_user
+from database.models import add_or_get_user, set_user_hour, get_user
 from keyboards.inline import hour_keyboard
 
 router = Router()
@@ -19,11 +19,18 @@ async def cmd_time(message: Message):
 @router.callback_query(F.data.startswith("hour:"))
 async def process_hour(callback: CallbackQuery):
     hour = int(callback.data.split(":")[1])
-    set_user_hour(callback.from_user.id, hour)
+    telegram_id = callback.from_user.id
 
-    user = get_user(callback.from_user.id)
+    # Переконуємося, що користувач є в базі
+    add_or_get_user(telegram_id)
 
-    if user["level"]:
+    # Зберігаємо обраний час
+    set_user_hour(telegram_id, hour)
+
+    # Отримуємо актуальні дані користувача
+    user = get_user(telegram_id)
+
+    if user and user["level"]:
         await callback.message.edit_text(
             f"Час встановлено: {hour}:00 ✅\n\n"
             f"Усе готово! Щодня о {hour}:00 ти отримуватимеш "
@@ -33,7 +40,8 @@ async def process_hour(callback: CallbackQuery):
         )
     else:
         await callback.message.edit_text(
-            f"Час встановлено: {hour}:00 ✅\n"
+            f"Час встановлено: {hour}:00 ✅\n\n"
             "Тепер обери свій рівень: /level"
         )
+
     await callback.answer()
